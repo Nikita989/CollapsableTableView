@@ -1,3 +1,3 @@
 # CollapsableTbleView
 
-![alt text](/Desktop/Screenshot1.png "Collapsed Cell")
+![alt text](/Users/NikitaHassan/Desktop/Screenshot1.png "Collapsed Cell")
